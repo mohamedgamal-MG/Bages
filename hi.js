@@ -1,0 +1,1 @@
+const extName = "this is clone";
